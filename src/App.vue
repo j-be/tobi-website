@@ -18,6 +18,7 @@ import PageFooter from './components/Footer.vue'
   </main>
 </template>
 
-<style>
+<style lang="scss">
 @import './assets/base.css';
+@import './assets/startbootstrap-grayscale-customized.scss';
 </style>
