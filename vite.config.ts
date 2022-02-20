@@ -12,4 +12,7 @@ export default defineConfig({
     }
   },
   base: '/tobi-website/',
+  server: {
+    host: '0.0.0.0',
+  },
 })
