@@ -21,4 +21,5 @@ import PageFooter from './components/Footer.vue'
 <style lang="scss">
 @import './assets/base.css';
 @import './assets/startbootstrap-grayscale-customized.scss';
+@import './assets/workarounds.scss';
 </style>
