@@ -13,7 +13,7 @@ const phoneNumber = "+39 339 123 45 67";
                             <h4 class="text-uppercase m-0">Adresse</h4>
                             <hr class="my-4 mx-auto" />
                             <div class="small text-black-50">
-                                Gampenstrße Irgendeppes<br>
+                                Gampenstraße Irgendeppes<br>
                                 39010 Tscherms<br>
                                 BZ - Italien
                             </div>
