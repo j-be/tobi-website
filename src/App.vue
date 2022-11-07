@@ -1,7 +1,6 @@
 <script setup lang="ts">
 import Navigation from './components/Navigation.vue'
 import PageHeader from './components/Header.vue'
-import About from './components/About.vue'
 import Projects from './components/Projects.vue'
 import Contact from './components/Contact.vue'
 import PageFooter from './components/Footer.vue'
