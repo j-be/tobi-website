@@ -11,7 +11,6 @@ import * as Constants from '../constants';
             </button>
             <div class="collapse navbar-collapse" id="navbarResponsive">
                 <ul class="navbar-nav ms-auto">
-                    <li class="nav-item"><a class="nav-link" href="#about">Info</a></li>
                     <li class="nav-item"><a class="nav-link" href="#projects">Videos</a></li>
                     <li class="nav-item"><a class="nav-link" href="#contact">Kontakt</a></li>
                 </ul>

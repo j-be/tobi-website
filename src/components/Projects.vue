@@ -48,7 +48,7 @@
                                     Die Werkstott
                                 </h4>
                                 <p class="mb-0 text-white-50">
-                                    Do sig men die Profidrohnenmechanikerin von Stuandl in dor Werkstott ban Vorbereitenvon die negsten Aufnohmen. Dor Stuandl stellt jo lei Profis un, sell woas men woll. 
+                                    Do sig men die Profidrohnenmechanikerin von Stuandl in dor Werkstott ban Vorbereitenvon die negsten Aufnohmen. Dor Stuandl stellt jo lei Profis un, sell woas men woll.
                                 </p>
                                 <hr class="d-none d-lg-block mb-0 me-0" />
                             </div>
