@@ -11,7 +11,6 @@ import PageFooter from './components/Footer.vue'
   <main>
     <Navigation />
     <PageHeader />
-    <About />
     <Projects />
     <Contact />
     <PageFooter />
