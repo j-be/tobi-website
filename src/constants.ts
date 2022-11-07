@@ -1,1 +1,1 @@
-export const NAME = 'FlyStuandl'
+export const NAME = 'FlyingStone'
