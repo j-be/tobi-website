@@ -44,7 +44,9 @@ const phoneNumber = "+39 339 123 45 67";
                 </div>
             </div>
             <div class="social d-flex justify-content-center">
-                <a class="mx-2" href="https://www.instagram.com/stuandl_franz_fpv/"><i class="fab fa-instagram"></i></a>
+                <a class="mx-2" href="https://www.instagram.com/stuandl_franz_fpv/">
+                    <img height="24" src="../assets/img/instagram.svg">
+                </a>
             </div>
         </div>
     </section>
