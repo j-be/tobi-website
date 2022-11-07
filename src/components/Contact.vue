@@ -13,7 +13,7 @@ const phoneNumber = "+39 339 123 45 67";
                             <h4 class="text-uppercase m-0">Adresse</h4>
                             <hr class="my-4 mx-auto" />
                             <div class="small text-black-50">
-                                Gampenstraße Irgendeppes<br>
+                                Raffeinweg 10<br>
                                 39010 Tscherms<br>
                                 BZ - Italien
                             </div>
@@ -26,7 +26,7 @@ const phoneNumber = "+39 339 123 45 67";
                             <i class="fas fa-envelope text-primary mb-2"></i>
                             <h4 class="text-uppercase m-0">Email</h4>
                             <hr class="my-4 mx-auto" />
-                            <div class="small text-black-50"><a href="#!">hello@yourdomain.com</a></div>
+                            <div class="small text-black-50"><a href="#!">plattner.tobias@gmail.com</a></div>
                         </div>
                     </div>
                 </div>
@@ -37,7 +37,7 @@ const phoneNumber = "+39 339 123 45 67";
                             <h4 class="text-uppercase m-0">Telefon</h4>
                             <hr class="my-4 mx-auto" />
                             <div class="small text-black-50">
-                                <a href="tel:+393391234567">+39 339 123 45 67</a>
+                                <a href="tel:+393391234567">+39 348 544 59 41</a>
                             </div>
                         </div>
                     </div>
