@@ -1,0 +1,41 @@
+/* varela-round-regular - latin */
+@font-face {
+  font-family: 'Varela Round';
+  font-style: normal;
+  font-weight: 400;
+  src: url('./varela-round-v19-latin-regular.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('./varela-round-v19-latin/varela-round-v19-latin-regular.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./varela-round-v19-latin/varela-round-v19-latin-regular.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./varela-round-v19-latin/varela-round-v19-latin-regular.woff') format('woff'), /* Modern Browsers */
+       url('./varela-round-v19-latin/varela-round-v19-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('./varela-round-v19-latin/varela-round-v19-latin-regular.svg#VarelaRound') format('svg'); /* Legacy iOS */
+}
+
+/* nunito-700 - latin */
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  src: url('./nunito-v25-latin/nunito-v25-latin-700.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('./nunito-v25-latin/nunito-v25-latin-700.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./nunito-v25-latin/nunito-v25-latin-700.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./nunito-v25-latin/nunito-v25-latin-700.woff') format('woff'), /* Modern Browsers */
+       url('./nunito-v25-latin/nunito-v25-latin-700.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('./nunito-v25-latin/nunito-v25-latin-700.svg#Nunito') format('svg'); /* Legacy iOS */
+}
+
+/* nunito-italic - latin */
+@font-face {
+  font-family: 'Nunito';
+  font-style: italic;
+  font-weight: 400;
+  src: url('./nunito-v25-latin/nunito-v25-latin-italic.eot'); /* IE9 Compat Modes */
+  src: local(''),
+       url('./nunito-v25-latin/nunito-v25-latin-italic.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+       url('./nunito-v25-latin/nunito-v25-latin-italic.woff2') format('woff2'), /* Super Modern Browsers */
+       url('./nunito-v25-latin/nunito-v25-latin-italic.woff') format('woff'), /* Modern Browsers */
+       url('./nunito-v25-latin/nunito-v25-latin-italic.ttf') format('truetype'), /* Safari, Android, iOS */
+       url('./nunito-v25-latin/nunito-v25-latin-italic.svg#Nunito') format('svg'); /* Legacy iOS */
+}
